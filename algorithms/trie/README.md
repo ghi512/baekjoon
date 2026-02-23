@@ -18,14 +18,14 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/6785)
 
 
-|순번|추천 문제|문제 번호|문제 이름|난이도|풀이 링크|풀이 완료|풀이 날짜|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|000|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/14425" target="_blank">14425</a>|<a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|<a href="https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/14425" target="_blank">바로 가기</a>|| |
-|001|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/4358" target="_blank">4358</a>|<a href="https://www.acmicpc.net/problem/4358" target="_blank">생태학</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|<a href="https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/4358" target="_blank">바로 가기</a>|| |
-|002|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/5052" target="_blank">5052</a>|<a href="https://www.acmicpc.net/problem/5052" target="_blank">전화번호 목록</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>||| |
-|003|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/20166" target="_blank">20166</a>|<a href="https://www.acmicpc.net/problem/20166" target="_blank">문자열 지옥에 빠진 호석</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>||| |
-|004|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/14725" target="_blank">14725</a>|<a href="https://www.acmicpc.net/problem/14725" target="_blank">개미굴</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>||| |
-|005||<a href="https://www.acmicpc.net/problem/9202" target="_blank">9202</a>|<a href="https://www.acmicpc.net/problem/9202" target="_blank">Boggle</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/>||| |
-|006||<a href="https://www.acmicpc.net/problem/5670" target="_blank">5670</a>|<a href="https://www.acmicpc.net/problem/5670" target="_blank">휴대폰 자판</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/17.svg"/>||| |
-|007||<a href="https://www.acmicpc.net/problem/19585" target="_blank">19585</a>|<a href="https://www.acmicpc.net/problem/19585" target="_blank">전설</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/18.svg"/>||| |
-|008||<a href="https://www.acmicpc.net/problem/5446" target="_blank">5446</a>|<a href="https://www.acmicpc.net/problem/5446" target="_blank">용량 부족</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/18.svg"/>||| |
+|순번|추천 문제|문제 번호|문제 이름|난이도|풀이 완료|풀이 날짜|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|000|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/14425" target="_blank">14425</a>|<a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|| |
+|001|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/4358" target="_blank">4358</a>|<a href="https://www.acmicpc.net/problem/4358" target="_blank">생태학</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|| |
+|002|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/5052" target="_blank">5052</a>|<a href="https://www.acmicpc.net/problem/5052" target="_blank">전화번호 목록</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|| |
+|003|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/20166" target="_blank">20166</a>|<a href="https://www.acmicpc.net/problem/20166" target="_blank">문자열 지옥에 빠진 호석</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|| |
+|004|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/14725" target="_blank">14725</a>|<a href="https://www.acmicpc.net/problem/14725" target="_blank">개미굴</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|| |
+|005||<a href="https://www.acmicpc.net/problem/9202" target="_blank">9202</a>|<a href="https://www.acmicpc.net/problem/9202" target="_blank">Boggle</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/>|| |
+|006||<a href="https://www.acmicpc.net/problem/5670" target="_blank">5670</a>|<a href="https://www.acmicpc.net/problem/5670" target="_blank">휴대폰 자판</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/17.svg"/>|| |
+|007||<a href="https://www.acmicpc.net/problem/19585" target="_blank">19585</a>|<a href="https://www.acmicpc.net/problem/19585" target="_blank">전설</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/18.svg"/>|| |
+|008||<a href="https://www.acmicpc.net/problem/5446" target="_blank">5446</a>|<a href="https://www.acmicpc.net/problem/5446" target="_blank">용량 부족</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/18.svg"/>|| |
