@@ -1,6 +1,6 @@
 # 코딩테스트 대비 문제집 with Baekjoon
 
-[![내 풀이 현황](https://img.shields.io/badge/내_풀이_현황-0/1049-blue?style=for-the-badge)](https://www.acmicpc.net/user/ghi512)
+[![내 풀이 현황](https://img.shields.io/badge/내_풀이_현황-2/1049-blue?style=for-the-badge)](https://www.acmicpc.net/user/ghi512)
 
 
 | 순번 | Tag                          | 태그                | 문제집    | 추천 문제 수 | 총 문제 수 | 내 풀이 |
@@ -14,7 +14,7 @@
 | 06 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./algorithms/dynamic_programming_2) | 28 | 81 | 0 / 81 |
 | 07 | Two Pointer | 투 포인터 | [바로가기](./algorithms/two_pointer) | 13 | 36 | 0 / 36 |
 | 08 | Implementation | 구현 | [바로가기](./algorithms/implementation) | 30 | 51 | 0 / 51 |
-| 09 | Graph Traversal | 그래프 탐색 | [바로가기](./algorithms/graph_traversal) | 31 | 96 | 0 / 96 |
+| 09 | Graph Traversal | 그래프 탐색 | [바로가기](./algorithms/graph_traversal) | 31 | 96 | 2 / 96 |
 | 10 | Brute Force | 완전탐색 | [바로가기](./algorithms/brute_force) | 33 | 94 | 0 / 94 |
 | 11 | Simulation | 시뮬레이션 | [바로가기](./algorithms/simulation) | 30 | 48 | 0 / 48 |
 | 12 | Binary Search | 이분탐색 | [바로가기](./algorithms/binary_search) | 20 | 66 | 0 / 66 |
@@ -31,8 +31,10 @@
 
 <br>
 
-## 기존 안내사항
+<details>
+  <summary>기존 안내사항</summary>
 
+<br>
 ❈  코딩테스트을 준비하시는 분들을 위해 문제집을 만들어봤습니다. ❈ 
 
 ❗️ 주의 ❗️  
@@ -54,6 +56,8 @@
 여기에서는 각 알고리즘 개념을 설명하는 것이 없습니다. [알고리즘 설명 링크 모음](./link_for_study.md)
 
 문제 뽑은 기준 : 각 태그에 해당하는 문제(코딩 테스트에 나올 정도) 들을 최대한 많이 뽑고 반드시 풀고 넘어가면 좋은 문제를 체크해놨습니다.
+  
+</details>
 
 <br><br>
 
