@@ -18,11 +18,11 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/6784)
 
 
-|순번|추천 문제|문제 번호|문제 이름|난이도|풀이 완료|풀이 날짜|
+|순번|추천 문제|문제 번호|문제 이름|난이도|풀이 링크|풀이 날짜|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|000|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/1717" target="_blank">1717</a>|<a href="https://www.acmicpc.net/problem/1717" target="_blank">집합의 표현</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|| |
+|000|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/1717" target="_blank">1717</a>|<a href="https://www.acmicpc.net/problem/1717" target="_blank">집합의 표현</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/ghi512/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/1717.%E2%80%85%EC%A7%91%ED%95%A9%EC%9D%98%E2%80%85%ED%91%9C%ED%98%84/%EC%A7%91%ED%95%A9%EC%9D%98%E2%80%85%ED%91%9C%ED%98%84.java)|26.02.23|
 |001|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/18116" target="_blank">18116</a>|<a href="https://www.acmicpc.net/problem/18116" target="_blank">로봇 조립</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|| |
-|002|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/1976" target="_blank">1976</a>|<a href="https://www.acmicpc.net/problem/1976" target="_blank">여행 가자</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|| |
+|002|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/1976" target="_blank">1976</a>|<a href="https://www.acmicpc.net/problem/1976" target="_blank">여행 가자</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/ghi512/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/1976.%E2%80%85%EC%97%AC%ED%96%89%E2%80%85%EA%B0%80%EC%9E%90/%EC%97%AC%ED%96%89%E2%80%85%EA%B0%80%EC%9E%90.java)|26.02.23|
 |003|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/16562" target="_blank">16562</a>|<a href="https://www.acmicpc.net/problem/16562" target="_blank">친구비</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|| |
 |004|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/4195" target="_blank">4195</a>|<a href="https://www.acmicpc.net/problem/4195" target="_blank">친구 네트워크</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|| |
 |005|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/10775" target="_blank">10775</a>|<a href="https://www.acmicpc.net/problem/10775" target="_blank">공항</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|| |
@@ -33,7 +33,7 @@
 |010||<a href="https://www.acmicpc.net/problem/20955" target="_blank">20955</a>|<a href="https://www.acmicpc.net/problem/20955" target="_blank">민서의 응급 수술</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|| |
 |011||<a href="https://www.acmicpc.net/problem/12893" target="_blank">12893</a>|<a href="https://www.acmicpc.net/problem/12893" target="_blank">적의 적</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|| |
 |012||<a href="https://www.acmicpc.net/problem/15789" target="_blank">15789</a>|<a href="https://www.acmicpc.net/problem/15789" target="_blank">CTP 왕국은 한솔 왕국을 이길 수 있을까?</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|| |
-|013||<a href="https://www.acmicpc.net/problem/1043" target="_blank">1043</a>|<a href="https://www.acmicpc.net/problem/1043" target="_blank">거짓말</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|| |
+|013||<a href="https://www.acmicpc.net/problem/1043" target="_blank">1043</a>|<a href="https://www.acmicpc.net/problem/1043" target="_blank">거짓말</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/ghi512/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Gold/1043.%E2%80%85%EA%B1%B0%EC%A7%93%EB%A7%90/%EA%B1%B0%EC%A7%93%EB%A7%90.java)|26.02.23|
 |014||<a href="https://www.acmicpc.net/problem/20040" target="_blank">20040</a>|<a href="https://www.acmicpc.net/problem/20040" target="_blank">사이클 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|| |
 |015||<a href="https://www.acmicpc.net/problem/17090" target="_blank">17090</a>|<a href="https://www.acmicpc.net/problem/17090" target="_blank">미로 탈출하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|| |
 |016||<a href="https://www.acmicpc.net/problem/16724" target="_blank">16724</a>|<a href="https://www.acmicpc.net/problem/16724" target="_blank">피리 부는 사나이</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|| |
