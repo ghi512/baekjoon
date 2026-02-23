@@ -1,28 +1,14 @@
 # Graph Traversal (그래프 탐색)
 
-[메인으로 돌아가기](https://github.com/tony9402/baekjoon)
-
-풀어보면 좋을 문제는 추천 문제에 체크(:heavy_check_mark:) 해놨습니다.
-
-추천 문제 아닌 나머지는 나머지를 난이도 섞었습니다.
-
-BFS, DFS 유형을 다양하게 골랐습니다. 
-
-문제를 보고 어떤 알고리즘을 써야할지 잘 판단하셔야 합니다.
-
-<br>
-
-***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
-
 [백준 문제집](https://www.acmicpc.net/workbook/view/6853)
 
 
-|순번|추천 문제|문제 번호|문제 이름|난이도|풀이 완료|풀이 날짜|
+|순번|추천 문제|문제 번호|문제 이름|난이도|풀이 링크|풀이 날짜|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |000|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/2606" target="_blank">2606</a>|<a href="https://www.acmicpc.net/problem/2606" target="_blank">바이러스</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|| |
 |001|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/1260" target="_blank">1260</a>|<a href="https://www.acmicpc.net/problem/1260" target="_blank">DFS와 BFS</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|| |
 |002|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/11725" target="_blank">11725</a>|<a href="https://www.acmicpc.net/problem/11725" target="_blank">트리의 부모 찾기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|| |
-|003|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/1325" target="_blank">1325</a>|<a href="https://www.acmicpc.net/problem/1325" target="_blank">효율적인 해킹</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|| |
+|003|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/1325" target="_blank">1325</a>|<a href="https://www.acmicpc.net/problem/1325" target="_blank">효율적인 해킹</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/ghi512/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1325.%E2%80%85%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%E2%80%85%ED%95%B4%ED%82%B9/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%E2%80%85%ED%95%B4%ED%82%B9.java)|26.02.23|
 |004|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/14940" target="_blank">14940</a>|<a href="https://www.acmicpc.net/problem/14940" target="_blank">쉬운 최단거리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|| |
 |005|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/16918" target="_blank">16918</a>|<a href="https://www.acmicpc.net/problem/16918" target="_blank">봄버맨</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|| |
 |006|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/2667" target="_blank">2667</a>|<a href="https://www.acmicpc.net/problem/2667" target="_blank">단지번호붙이기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|| |
@@ -51,7 +37,7 @@ BFS, DFS 유형을 다양하게 골랐습니다.
 |029|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/22946" target="_blank">22946</a>|<a href="https://www.acmicpc.net/problem/22946" target="_blank">원 이동하기 1</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|| |
 |030|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/22948" target="_blank">22948</a>|<a href="https://www.acmicpc.net/problem/22948" target="_blank">원 이동하기 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|| |
 |031||<a href="https://www.acmicpc.net/problem/16956" target="_blank">16956</a>|<a href="https://www.acmicpc.net/problem/16956" target="_blank">늑대와 양</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|| |
-|032||<a href="https://www.acmicpc.net/problem/18352" target="_blank">18352</a>|<a href="https://www.acmicpc.net/problem/18352" target="_blank">특정 거리의 도시 찾기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|| |
+|032||<a href="https://www.acmicpc.net/problem/18352" target="_blank">18352</a>|<a href="https://www.acmicpc.net/problem/18352" target="_blank">특정 거리의 도시 찾기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기](https://github.com/ghi512/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/18352.%E2%80%85%ED%8A%B9%EC%A0%95%E2%80%85%EA%B1%B0%EB%A6%AC%EC%9D%98%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EC%B0%BE%EA%B8%B0/%ED%8A%B9%EC%A0%95%E2%80%85%EA%B1%B0%EB%A6%AC%EC%9D%98%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EC%B0%BE%EA%B8%B0.java)|26.02.23|
 |033||<a href="https://www.acmicpc.net/problem/18232" target="_blank">18232</a>|<a href="https://www.acmicpc.net/problem/18232" target="_blank">텔레포트 정거장</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|| |
 |034||<a href="https://www.acmicpc.net/problem/1012" target="_blank">1012</a>|<a href="https://www.acmicpc.net/problem/1012" target="_blank">유기농 배추</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|| |
 |035||<a href="https://www.acmicpc.net/problem/21938" target="_blank">21938</a>|<a href="https://www.acmicpc.net/problem/21938" target="_blank">영상처리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|| |
