@@ -1,6 +1,6 @@
 # 코딩테스트 대비 문제집 with Baekjoon
 
-[![내 풀이 현황](https://img.shields.io/badge/내_풀이_현황-9/1049-blue?style=for-the-badge)](https://www.acmicpc.net/user/ghi512)
+[![내 풀이 현황](https://img.shields.io/badge/내_풀이_현황-13/1049-blue?style=for-the-badge)](https://www.acmicpc.net/user/ghi512)
 
 
 | 순번 | Tag                          | 태그                | 문제집    | 추천 문제 수 | 총 문제 수 | 내 풀이 |
@@ -23,7 +23,7 @@
 | 15 | Prefix Sum | 누적 합 | [바로가기](./algorithms/prefix_sum) | 11 | 32 | - |
 | 16 | String | 문자열 | [바로가기](./algorithms/string) | 19 | 63 | - |
 | 17 | Shortest Path | 최단거리 | [바로가기](./algorithms/shortest_path) | 18 | 53 | - |
-| 18 | Topological Sorting | 위상정렬 | [바로가기](./algorithms/topological_sorting) | 05 | 14 | - |
+| 18 | Topological Sorting | 위상정렬 | [바로가기](./algorithms/topological_sorting) | 05 | 14 | 4 |
 | 19 | Disjoint Set | 분리 집합 | [바로가기](./algorithms/disjoint_set) | 06 | 20 | 4 |
 | 20 | Minimum Spanning Tree(MST) | 최소 스패닝 트리 | [바로가기](./algorithms/minimum_spanning_tree) | 08 | 24 | - |
 | 21 | Trie | 트라이 | [바로가기](./algorithms/trie) | 05 | 09 | - |
